@@ -1,0 +1,21 @@
+.cs_form{
+width: 100%;
+padding-left: 25%;
+padding-right: 25%;
+font-size: 150%;
+
+}
+
+.form-control{
+    height: 50px;
+    font-size: 150%;
+}
+.perfil{
+    text-align: center;
+}
+
+.btn-primary{
+    width: 75px;
+    height: 40px;
+    font-size: 20px;
+}
